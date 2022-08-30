@@ -20,10 +20,10 @@ export const head: HeadConfig = {
     dev
       ? []
       : [
-          '<link rel="preconnect" href="https://umami.kwchang0831.dev" />',
+          '<link rel="preconnect" href="https://ryzahrawedding.com" />',
           // IndieAuth
-          '<link rel="authorization_endpoint" href="https://indieauth.com/auth">',
-          '<link rel="token_endpoint" href="https://tokens.indieauth.com/token">',
+          '<link rel="authorization_endpoint" href="https://ryzahrawedding.com/auth">',
+          '<link rel="token_endpoint" href="https://tokens.ryzahrawedding.com/token">',
           // Umami Analytics
           '<script defer data-website-id="e29bb16a-1e2e-48e6-8812-5d7bb04204b7" src="https://umami.kwchang0831.dev/umami.js" data-cache="true" data-domains="kwchang0831.dev,www.kwchang0831.dev"></script>'
         ]
@@ -35,7 +35,7 @@ export const header: HeaderConfig = {
   },
   nav: [
     {
-      text: '關於我',
+      text: 'ABOUT',
       link: '/about',
       datatip: 'about me'
     }

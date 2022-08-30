@@ -57,9 +57,9 @@
         rel="noopener external"
         target="_blank"
         class="tooltip tooltip-secondary hover:text-secondary"
-        data-tip="🌸 [γ] - Based on MDsveX & SvelteKit 🌸"
-        href="https://github.com/importantimport/urara">
-        Urara
+        data-tip="Ryzahr Wedding"
+        href="http://ryzahrawedding.com">
+        Ryzahra Wedding
       </a>
     </p>
   </div>

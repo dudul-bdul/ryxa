@@ -1,10 +1,10 @@
 {
-  "name": "kwchang0831.dev",
+  "name": "ryzahra",
   "version": "0.0.1",
-  "repository": "kwchang0831/kwchang0831.dev",
-  "homepage": "https://github.com/kwchang0831",
+  "repository": "dudul-bdul/ryxa",
+  "homepage": "https://github.com/dudul-bdul",
   "bugs": "https://github.com/kwchang0831/kwchang0831.dev/issues",
-  "author": "kwchang0831",
+  "author": "dudul-bful",
   "scripts": {
     "clean:dir": "del-cli build .svelte-kit static src/routes/* !src/routes/*.ts !src/routes/*.svelte",
     "clean:deep": "npm-run-all -s clean:dir clean",
